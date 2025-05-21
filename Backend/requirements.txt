@@ -1,0 +1,18 @@
+crewai                    # For CrewAI framework
+langchain               # For LangChain
+openai                   # For OpenAI API (ChatGPT models, etc.)
+serpapi                   # For interacting with the SerpAPI
+yfinance                 # For fetching financial data using Yahoo Finance
+pinecone-client           # Pinecone client for vector database interactions
+pandas                    # For data handling (especially financial data)
+requests                # To make HTTP requests (e.g., for APIs like SerpAPI)
+langchain_community
+google-search-results
+python-dotenv
+langchain_openai
+langchain_core
+scikit-learn
+numpy
+yahooquery
+fastapi
+uvicorn
